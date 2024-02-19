@@ -26,7 +26,7 @@ Did I mention that this is a a codeplug for the state of Mississippi?
 ## Use
 This codeplug (RDT file) is for the Anytone AT-D878UVII Plus radio with firmware version 3.03 running CPS version 3.03 and the radio is configured for Mode 14 (Maintenance Mode).
 
-If your radio is not configured for Mode 14, this codeplug file cannot be installed onto your radio. We do provide all of the exported .CSV files that you may import directly into your codeplug and achieve the same results.
+If your radio is not configured for Mode 14, this codeplug file cannot be installed onto your radio. We do provide all of the exported .CSV files so that you may easily import them directly into your codeplug and achieve the same results.
 
 If there is enough interest, I may start another project to support Mode 7 (US Amateur Radio mode).
 
