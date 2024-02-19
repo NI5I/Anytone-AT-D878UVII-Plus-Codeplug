@@ -1,6 +1,6 @@
 # Anytone-AT-D878UVII-Plus-Mode-14-Codeplug
 
-Unofficial Mississippi ARES codeplug for the Anytone AT-D878UVII Plus radio.
+Unofficial Mississippi Amateur Radio Emergency Services (ARES) codeplug for the Anytone AT-D878UVII Plus radio.
 
 This codeplug is a work in progress, please reach out to me if you notice any inaccuracies or would like to add repeaters in your Mississippi County.
 
