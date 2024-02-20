@@ -5,9 +5,9 @@ Unofficial Mississippi Amateur Radio Emergency Services (ARES) codeplug for the 
 This codeplug is a work in progress, please reach out to me if you notice any inaccuracies or would like to add repeaters in your Mississippi County.
 
 ## Introduction
-This codeplug was started as a personal codeplug, then added entries for the George County ARES group when they got their DMR repeater back on the air. Now the focus has been shifted to make something for the State of Mississippi ARES team. Our goals would be to add all Mississippi Counties to the codeplug.
+This codeplug was started as a personal project, then added entries for the George County ARES group when they got their DMR repeater back on the air. Now the focus has been shifted to make something for the State of Mississippi ARES team. Our goal would be to add all Mississippi Counties to the codeplug.
 
-Mississippi ARES EC's please reach out to me and let me know how you would like your county's zone configured.
+Mississippi ARES EC's please reach out to me and let me know how you would like your county's zone configured. This should reflect the VHF/UHF information in your ICS-205.
 
 ## Features
  - 1295 Channels
