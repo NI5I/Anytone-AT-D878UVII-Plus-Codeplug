@@ -17,7 +17,7 @@ Mississippi ARES EC's please reach out to me and let me know how you would like 
 Most US BrandMeister talk groups are included, I have just started adding talk groups from TGIF and FreeDMR networks.
 
  - George County zone included
- - Stone County zone is next
+ - Stone County zone is included
  - Forest County zone is in the works
  - Lamar County zone is also in the works
 
