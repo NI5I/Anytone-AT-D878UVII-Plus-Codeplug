@@ -1,6 +1,6 @@
 # Anytone AT-D878UVII Plus Codeplug
 
-> [!WARNING]
+> [!CAUTION]
 > Codeplug version, CPS programming software version and firmware version installed in the radio must all be from the same version.
 >
 > You must [REBUILD](#rebuild) your codeplug every time a new CPS or firmware version is installed.
