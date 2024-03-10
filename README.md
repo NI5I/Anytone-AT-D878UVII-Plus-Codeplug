@@ -67,8 +67,8 @@ Do not take any shortcuts with this process. It does require a little bit of eff
  5. Using your CPS software, read from the freshly reset radio. 
  6. Import everything that you saved from Step 1.
  7. Complete your codeplug by reviewing your Optional Settings and encryption keys if applicable and confirm all is correct. Now is also a good time to update your DMR ID contacts list.
- 8. Send the fresly rebuilt codeplug to the radio.
- 9. If you had a custome startup picture or background pictures, send those to the radio.
+ 8. Send the freshly rebuilt codeplug to the radio.
+ 9. If you had a custom startup picture or background pictures, send those to the radio.
  10. Save the new codeplug file. You should use this new save as the baseline for any future changes you may wish to make. You should also delete your old codeplug file.
  11. Use these steps to rebuild your codeplug EVERY time you upgrade your radio's firmware.
 
