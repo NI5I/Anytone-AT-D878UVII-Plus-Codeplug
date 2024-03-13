@@ -51,7 +51,12 @@ Model --> Model Information
 
 If your radio is not configured for Mode 14, this codeplug file cannot be installed onto your radio. We do provide all of the exported .CSV files so that you may easily import them directly into your codeplug and achieve the same results. You will also probably want to find the MURS (5 channels) and 220MHz channels (about 20) and remove them from the .csv file before importing them.
 
-If there is enough interest, I may start another project to support Mode 7 (US Amateur Radio mode).
+> [!NOTE]
+> March 12, 2024:
+>
+> Added a codeplug for unmodified radios running Mode 7.
+
+Okay, Mode 7 radios, here is your new codeplug.
 
 Using your favorite text editor or spreadsheet software, search for the hotspot frequency of **438.8000** and replace it with the frequncy that you used in your hotspot. You will need to search and replace the entries in both the *channels.csv* and *zones.csv* files.
 
