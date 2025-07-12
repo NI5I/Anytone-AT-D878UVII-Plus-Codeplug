@@ -1,7 +1,7 @@
 # Anytone AT-D878UVII Plus Codeplug
 
 > [!CAUTION]
-> Codeplug version, CPS programming software version and firmware version installed in the radio must all be from the same version.
+> The codeplug version, the CPS programming software version and the firmware version installed in the radio must all be from the same version.
 
 ## Table of Contents
  - [Background](#background)
@@ -38,7 +38,17 @@ Most English language BrandMeister talk groups are included, I have just started
 
 Did I mention that this is primarily a codeplug for the amateur's located in the state of Mississippi? But anyone is welcome to use it. Stop by the Mississippi Statewide or Lucedale talk group and say hi.
 
+Is the frequency used on your hotspot coordinated with [SERA](https://sera.org/)? SERA has sliced out 10 simplex frequencies for hotspot use. These recommended frequencies are shared with Narrow Band FM Digital Simples users, and care should be taken to not choose a frequency already used locally. No amplifier or external antenna should be used with a hotspot, and the transmit power of the corresponding radio should be set to minimum.
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| 440.9250 | 440.9500 | 440.9750 | 441.0250 | 441.0500 |
+| 441.0750 | 441.1000 | 441.1250 | 441.1500 | 441.1750 |
+
 The simplex frequencies channelized in this codeplug are as listed in the [SERA](https://sera.org/) Frequency Utilization Plans, as the frequency coordination in Mississippi is provided by them. (Could they make their website any less user friendly?) The exception(s) to this is where specific requests by specific Emergency Coordinator's were made.
+
+> [!Note:]
+> These frequencies are for use in Mississippi, if you are traveling out of state please be aware of and avoid any possible interference with other stations. 
 
 ## Usage
 Every setting in this codeplug is **Factory Default**. Please update the settings in the Optional Settings menu to suit your needs.
@@ -57,11 +67,8 @@ This is an example showing Mode-14:
 
 Use the codeplug that matches the mode that you are running. Either Mode 7 or Mode 14.
 
-If your radio is not configured for Mode 14, use the Mode 7 codeplug.
+If your radio is not specifically configured for Mode 14, use the Mode 7 codeplug.
 
 #### What??? You are not using 438.8000 in your ZumSpot?
 
 Use your favorite text editor or spreadsheet software, search for the hotspot frequency of **438.8000** and replace it with the frequncy that you used in your hotspot. You will need to search and replace the entries in both the *channels.csv* and *zones.csv* files.
-
-## Acknowledgments
-Thanks to [KC5DJR](https://docs.google.com/spreadsheets/d/1748U_gqH5I_LlhYrRuc8aT72tSeO-dq3/edit?rtpof=true&sd=true#gid=1402313308) for his exhaustive work in documenting the BrandMeister talk groups. He has [his own codeplugs](https://www.qsl.net/kc5djr/DMR%20Super%20USA%20Codeplug.html) too. If you don't like this one, you may like his.
