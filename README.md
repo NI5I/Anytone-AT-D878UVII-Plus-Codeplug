@@ -69,6 +69,6 @@ Use the codeplug that matches the mode that you are running. Either Mode 7 or Mo
 
 If your radio is not specifically configured for Mode 14, use the Mode 7 codeplug.
 
-#### What??? You are not using 438.8000 in your ZumSpot?
+#### What??? You are not using 440.9250 in your ZumSpot?
 
-Use your favorite text editor or spreadsheet software, search for the hotspot frequency of **438.8000** and replace it with the frequncy that you used in your hotspot. You will need to search and replace the entries in both the *channels.csv* and *zones.csv* files.
+Use your favorite text editor or spreadsheet software, search for the hotspot frequency of **440.9250** and replace it with the frequncy that you used in your hotspot. You will need to search and replace the entries in both the *channels.csv* and *zones.csv* files.
