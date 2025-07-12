@@ -6,6 +6,7 @@
 ## Table of Contents
  - [Background](#background)
  - [Features](#features)
+ - [Coordination](#coordination)
  - [Usage](#usage)
  - [Acknowledgments](#acknowledgements)
 
@@ -38,6 +39,7 @@ Most English language BrandMeister talk groups are included, I have just started
 
 Did I mention that this is primarily a codeplug for the amateur's located in the state of Mississippi? But anyone is welcome to use it. Stop by the Mississippi Statewide or Lucedale talk group and say hi.
 
+## Coordination
 Is the frequency used on your hotspot coordinated with [SERA](https://sera.org/)? SERA has sliced out 10 simplex frequencies for hotspot use. These recommended frequencies are shared with Narrow Band FM Digital Simples users, and care should be taken to not choose a frequency already used locally. No amplifier or external antenna should be used with a hotspot, and the transmit power of the corresponding radio should be set to minimum.
 
 |     |     |     |     |     |
